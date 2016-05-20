@@ -1,4 +1,4 @@
-package com.kevin.common.utils.countdownlatch;
+package com.kevin.common.utils.juc.countdownlatch;
 
 import java.util.concurrent.CountDownLatch;
 

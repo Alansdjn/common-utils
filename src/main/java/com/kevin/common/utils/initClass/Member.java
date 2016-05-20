@@ -1,4 +1,4 @@
-package com.kevin.common.utils.initClass;
+package com.kevin.common.utils.initclass;
 
 public class Member {
 

@@ -1,4 +1,4 @@
-package com.kevin.common.utils.initClass;
+package com.kevin.common.utils.initclass;
 
 /**
  *   1 继承体系的所有静态成员初始化（先父类，后子类） 

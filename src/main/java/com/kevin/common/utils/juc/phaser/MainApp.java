@@ -1,4 +1,4 @@
-package com.kevin.common.utils.phaser;
+package com.kevin.common.utils.juc.phaser;
 
 import java.util.concurrent.Phaser;
 

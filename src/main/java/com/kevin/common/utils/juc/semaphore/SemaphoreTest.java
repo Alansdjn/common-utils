@@ -1,4 +1,4 @@
-package com.kevin.common.utils.semaphore;
+package com.kevin.common.utils.juc.semaphore;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
