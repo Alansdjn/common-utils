@@ -1,0 +1,8 @@
+/target
+/.settings
+/.classpath
+/.project
+.DS_Store
+.idea/
+/node_modules/
+dev.config.js
