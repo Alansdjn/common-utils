@@ -5,4 +5,5 @@
   <classpathentry kind="src" path="src/test/resources" output="target/test-classes" excluding="**/*.java"/>
   <classpathentry kind="output" path="target/classes"/>
   <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+  <classpathentry kind="var" path="M2_REPO/com/alibaba/fastjson/1.1.35/fastjson-1.1.35.jar" sourcepath="M2_REPO/com/alibaba/fastjson/1.1.35/fastjson-1.1.35-sources.jar"/>
 </classpath>
