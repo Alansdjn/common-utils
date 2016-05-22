@@ -34,7 +34,10 @@ class CyclicBarrierRunnable implements Runnable {
         try {
             System.out.println("Thread " + name + " await...");
             cb.await();
-        } catch (InterruptedException | BrokenBarrierException e) {
+        } catch (InterruptedException  e) {
+            // TODO Auto-generated catch block
+            e.printStackTrace();
+        } catch (BrokenBarrierException e) {
             // TODO Auto-generated catch block
             e.printStackTrace();
         }
