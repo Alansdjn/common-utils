@@ -1,4 +1,4 @@
-package com.kevin.common.utils.initclass;
+package com.kevin.common.utils.initClass;
 
 public class Father {
 

@@ -1,4 +1,4 @@
-package com.kevin.common.utils.integertest;
+package com.kevin.common.utils.integerTest;
 
 public class IntegerTest {
 
