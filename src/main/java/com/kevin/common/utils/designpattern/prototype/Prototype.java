@@ -88,10 +88,10 @@ public class Prototype implements Cloneable, Serializable {
     /* (non-Javadoc)
      * @see java.lang.Object#toString()
      */
-    @Override
-    public String toString() {
-        return String.valueOf(this.hashCode());
-    }
+//    @Override
+//    public String toString() {
+//        return String.valueOf(this.hashCode());
+//    }
 }
 
 class SerializableObject implements Serializable {

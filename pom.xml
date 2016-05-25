@@ -8,6 +8,13 @@
   
   
 	<dependencies>
+		<!-- spring -->
+		<dependency>
+			<groupId>com.alibaba.external</groupId>
+			<artifactId>sourceforge.spring</artifactId>
+			<version>2.5.6.SEC02</version>
+		</dependency>
+			
 		<dependency>
 			<groupId>com.alibaba</groupId>
 			<artifactId>fastjson</artifactId>
