@@ -6,4 +6,9 @@
   <classpathentry kind="output" path="target/classes"/>
   <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
   <classpathentry kind="var" path="M2_REPO/com/alibaba/fastjson/1.1.35/fastjson-1.1.35.jar" sourcepath="M2_REPO/com/alibaba/fastjson/1.1.35/fastjson-1.1.35-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/alibaba/external/jakarta.commons.logging/0.0.0/jakarta.commons.logging-0.0.0.jar" sourcepath="M2_REPO/com/alibaba/external/jakarta.commons.logging/0.0.0/jakarta.commons.logging-0.0.0-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/alibaba/external/objectweb.asm/0.0.0/objectweb.asm-0.0.0.jar" sourcepath="M2_REPO/com/alibaba/external/objectweb.asm/0.0.0/objectweb.asm-0.0.0-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/alibaba/external/objectweb.asm.attrs/0.0.0/objectweb.asm.attrs-0.0.0.jar" sourcepath="M2_REPO/com/alibaba/external/objectweb.asm.attrs/0.0.0/objectweb.asm.attrs-0.0.0-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/alibaba/external/sourceforge.cglib/0.0.0/sourceforge.cglib-0.0.0.jar" sourcepath="M2_REPO/com/alibaba/external/sourceforge.cglib/0.0.0/sourceforge.cglib-0.0.0-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/alibaba/external/sourceforge.spring/2.5.6.SEC02/sourceforge.spring-2.5.6.SEC02.jar" sourcepath="M2_REPO/com/alibaba/external/sourceforge.spring/2.5.6.SEC02/sourceforge.spring-2.5.6.SEC02-sources.jar"/>
 </classpath>

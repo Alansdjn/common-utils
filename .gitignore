@@ -6,4 +6,4 @@
 .idea/
 /node_modules/
 dev.config.js
-.classpath
+.gitignore
