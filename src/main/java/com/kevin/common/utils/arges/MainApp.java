@@ -9,6 +9,8 @@ import java.util.Map;
 public class MainApp {
     
     public static volatile int a = 0;
+    public static final int b = 1;
+    public static int c = 2;
 
     public static void main(String[] args) {
 //        List<String> argList = new ArrayList<String>(Arrays.asList(args));
@@ -26,9 +28,14 @@ public class MainApp {
         List<String> list = new ArrayList<String>(map.values());
         System.out.println(list);
         
+        test("hello");
+        
     }
     
-    
+    public static void test(String str) {
+        String local = str;
+        System.out.println(local);
+    }
 }
 
 
