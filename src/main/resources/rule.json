@@ -1,0 +1,36 @@
+[
+  {
+    "description": "分组一",
+    "name": "group1",
+    "priority": 1,
+    "ruleModels": [
+      {
+        "description": "规则一",
+        "name": "rule1",
+        "ruleType": "OFFER_SHIELD"
+      },
+      {
+        "description": "规则一",
+        "name": "rule2",
+        "ruleType": "OFFER_SHIELD"
+      }
+    ]
+  },
+  {
+    "description": "分组一",
+    "name": "group2",
+    "priority": 1,
+    "ruleModels": [
+      {
+        "description": "规则一",
+        "name": "rule3",
+        "ruleType": "OFFER_SHIELD"
+      },
+      {
+        "description": "规则一",
+        "name": "rule4",
+        "ruleType": "OFFER_SHIELD"
+      }
+    ]
+  }
+]
