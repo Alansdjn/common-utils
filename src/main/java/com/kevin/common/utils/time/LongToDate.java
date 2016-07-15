@@ -16,12 +16,12 @@ import java.util.Date;
 public class LongToDate {
 
     public static void main(String[] args) {
-        Date date = new Date(1461403687200L);
+        Date date = new Date(1460711013439L);
         System.out.println("GMT_CREATE: " + date);
-//        date = new Date(1458523356869L);
-//        System.out.println("GMT_MODIFIED: " + date);
-//        date = new Date(1458096164925L);
-//        System.out.println("CONSIGN_CREATE_TIME: " + date);
+        date = new Date(1466255086315L);
+        System.out.println("GMT_MODIFIED: " + date);
+        date = new Date(1460711013432L);
+        System.out.println("CONSIGN_CREATE_TIME: " + date);
     }
 }
 

@@ -30,11 +30,16 @@ public class MainApp {
         
         test("hello");
         
+        getArgName(map);
     }
     
     public static void test(String str) {
         String local = str;
         System.out.println(local);
+    }
+    
+    public static void getArgName(Object obj) {
+        System.out.println(obj.getClass().getName());
     }
 }
 
